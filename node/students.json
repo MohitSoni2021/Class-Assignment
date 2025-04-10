@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "name": "Christopher Robinson",
+        "age": 22,
+        "gender": "Male",
+        "email": "mcconnellrobert@ayers.biz",
+        "course": "BBA",
+        "semester": 3
+    },
+    {
+        "id": 2,
+        "name": "Kimberly Lopez DVM",
+        "age": 18,
+        "gender": "Male",
+        "email": "smithjacob@yahoo.com",
+        "course": "B.Tech",
+        "semester": 5
+    },
+    {
+        "id": 3,
+        "name": "Barbara Copeland",
+        "age": 20,
+        "gender": "Female",
+        "email": "lukekirk@barnes.com",
+        "course": "MCA",
+        "semester": 1
+    },
+    {
+        "id": 4,
+        "name": "Donald Kennedy",
+        "age": 21,
+        "gender": "Female",
+        "email": "lwhite@jones.com",
+        "course": "M.Tech",
+        "semester": 8
+    },
+    {
+        "id": 5,
+        "name": "Andrew Avila",
+        "age": 21,
+        "gender": "Male",
+        "email": "wgriffith@yahoo.com",
+        "course": "BBA",
+        "semester": 4
+    },
+    {
+        "id": 6,
+        "name": "Tamara Spencer",
+        "age": 18,
+        "gender": "Male",
+        "email": "davisaudrey@hotmail.com",
+        "course": "B.Sc",
+        "semester": 8
+    },
+    {
+        "id": 7,
+        "name": "Christopher Barnett",
+        "age": 19,
+        "gender": "Male",
+        "email": "ftrujillo@yahoo.com",
+        "course": "MBA",
+        "semester": 1
+    },
+    {
+        "id": 8,
+        "name": "Michael Robbins",
+        "age": 20,
+        "gender": "Male",
+        "email": "rlopez@yahoo.com",
+        "course": "M.Tech",
+        "semester": 1
+    },
+    {
+        "id": 9,
+        "name": "Dustin Nolan",
+        "age": 24,
+        "gender": "Male",
+        "email": "powellstephanie@phelps.com",
+        "course": "BCA",
+        "semester": 4
+    },
+    {
+        "id": 10,
+        "name": "Elizabeth Williamson",
+        "age": 19,
+        "gender": "Male",
+        "email": "luisporter@hotmail.com",
+        "course": "M.Tech",
+        "semester": 2
+    },
+    {
+        "id": 11,
+        "name": "Nicholas Mullen",
+        "age": 23,
+        "gender": "Female",
+        "email": "sharongardner@hotmail.com",
+        "course": "B.Sc",
+        "semester": 3
+    },
+    {
+        "id": 12,
+        "name": "Jonathan Alexander",
+        "age": 24,
+        "gender": "Female",
+        "email": "njenkins@hotmail.com",
+        "course": "BCA",
+        "semester": 4
+    },
+    {
+        "id": 13,
+        "name": "David Davis",
+        "age": 21,
+        "gender": "Female",
+        "email": "clarksharon@owens.net",
+        "course": "MCA",
+        "semester": 5
+    },
+    {
+        "id": 14,
+        "name": "Tim Oliver",
+        "age": 24,
+        "gender": "Female",
+        "email": "vkline@martin.org",
+        "course": "B.Sc",
+        "semester": 7
+    },
+    {
+        "id": 15,
+        "name": "Monica Goodman",
+        "age": 21,
+        "gender": "Male",
+        "email": "jaredgalloway@hernandez-lee.info",
+        "course": "MBA",
+        "semester": 1
+    },
+    {
+        "id": 16,
+        "name": "Travis Jarvis",
+        "age": 23,
+        "gender": "Male",
+        "email": "gainesemily@martinez-doyle.biz",
+        "course": "MCA",
+        "semester": 6
+    },
+    {
+        "id": 17,
+        "name": "Melissa Klein",
+        "age": 23,
+        "gender": "Female",
+        "email": "adamsjennifer@fowler.com",
+        "course": "MCA",
+        "semester": 2
+    },
+    {
+        "id": 18,
+        "name": "Carrie Ross",
+        "age": 18,
+        "gender": "Male",
+        "email": "zbenson@alvarado-allison.com",
+        "course": "BCA",
+        "semester": 6
+    },
+    {
+        "id": 19,
+        "name": "Frederick Martinez",
+        "age": 20,
+        "gender": "Female",
+        "email": "jfowler@williams-barton.com",
+        "course": "B.Sc",
+        "semester": 7
+    },
+    {
+        "id": 20,
+        "name": "Edwin Stout",
+        "age": 24,
+        "gender": "Female",
+        "email": "stephen14@gmail.com",
+        "course": "M.Tech",
+        "semester": 3
+    },
+    {
+        "id": 21,
+        "name": "Diana Montgomery",
+        "age": 25,
+        "gender": "Male",
+        "email": "jeffersondaniel@gray-huang.com",
+        "course": "MCA",
+        "semester": 6
+    },
+    {
+        "id": 22,
+        "name": "Mary Hess",
+        "age": 22,
+        "gender": "Female",
+        "email": "parkerdenise@yahoo.com",
+        "course": "BBA",
+        "semester": 8
+    },
+    {
+        "id": 23,
+        "name": "Anthony Fowler",
+        "age": 24,
+        "gender": "Male",
+        "email": "vgreen@gmail.com",
+        "course": "BCA",
+        "semester": 7
+    },
+    {
+        "id": 24,
+        "name": "Jonathan Dixon",
+        "age": 24,
+        "gender": "Female",
+        "email": "browneileen@sanchez.org",
+        "course": "B.Tech",
+        "semester": 3
+    },
+    {
+        "id": 25,
+        "name": "Michael Stout",
+        "age": 25,
+        "gender": "Male",
+        "email": "justinlong@gmail.com",
+        "course": "MBA",
+        "semester": 2
+    },
+    {
+        "id": 26,
+        "name": "Shirley Ramos",
+        "age": 25,
+        "gender": "Female",
+        "email": "smithmichael@jacobson.info",
+        "course": "MBA",
+        "semester": 7
+    },
+    {
+        "id": 27,
+        "name": "Janice Guerrero",
+        "age": 23,
+        "gender": "Female",
+        "email": "owensmatthew@cole-cisneros.org",
+        "course": "MCA",
+        "semester": 7
+    },
+    {
+        "id": 28,
+        "name": "Mary Miller",
+        "age": 19,
+        "gender": "Female",
+        "email": "dyerrobin@price.com",
+        "course": "MCA",
+        "semester": 1
+    },
+    {
+        "id": 29,
+        "name": "Jessica Wong",
+        "age": 24,
+        "gender": "Male",
+        "email": "ibutler@yahoo.com",
+        "course": "MBA",
+        "semester": 5
+    },
+    {
+        "id": 30,
+        "name": "Angelica Williams",
+        "age": 24,
+        "gender": "Female",
+        "email": "nharper@pham.biz",
+        "course": "BCA",
+        "semester": 5
+    },
+    {
+        "id": 31,
+        "name": "Nathan Harmon",
+        "age": 20,
+        "gender": "Male",
+        "email": "davidbarnes@ward-krause.biz",
+        "course": "B.Tech",
+        "semester": 1
+    },
+    {
+        "id": 32,
+        "name": "Michael Stanton",
+        "age": 21,
+        "gender": "Male",
+        "email": "edavis@gmail.com",
+        "course": "MBA",
+        "semester": 2
+    },
+    {
+        "id": 33,
+        "name": "James Myers",
+        "age": 24,
+        "gender": "Male",
+        "email": "maryharrison@ruiz.com",
+        "course": "MCA",
+        "semester": 8
+    },
+    {
+        "id": 34,
+        "name": "Melissa Smith",
+        "age": 22,
+        "gender": "Male",
+        "email": "reedjames@harrell-gonzalez.com",
+        "course": "MBA",
+        "semester": 2
+    },
+    {
+        "id": 35,
+        "name": "Evan Marquez",
+        "age": 18,
+        "gender": "Male",
+        "email": "elizabeth61@yahoo.com",
+        "course": "B.Sc",
+        "semester": 8
+    },
+    {
+        "id": 36,
+        "name": "Holly Petersen",
+        "age": 24,
+        "gender": "Male",
+        "email": "grosssusan@gmail.com",
+        "course": "B.Tech",
+        "semester": 7
+    },
+    {
+        "id": 37,
+        "name": "Joshua Johnson",
+        "age": 21,
+        "gender": "Female",
+        "email": "raybrian@gmail.com",
+        "course": "MCA",
+        "semester": 6
+    },
+    {
+        "id": 38,
+        "name": "Paige Santiago",
+        "age": 21,
+        "gender": "Female",
+        "email": "lejessica@hotmail.com",
+        "course": "B.Tech",
+        "semester": 7
+    },
+    {
+        "id": 39,
+        "name": "Keith Benson",
+        "age": 22,
+        "gender": "Female",
+        "email": "marytaylor@morrison.com",
+        "course": "B.Tech",
+        "semester": 3
+    },
+    {
+        "id": 40,
+        "name": "Deanna Wood",
+        "age": 21,
+        "gender": "Male",
+        "email": "natalie01@knight-stevens.biz",
+        "course": "MCA",
+        "semester": 6
+    },
+    {
+        "id": 41,
+        "name": "Jeremy Rasmussen",
+        "age": 19,
+        "gender": "Female",
+        "email": "lynncabrera@hughes.com",
+        "course": "MBA",
+        "semester": 4
+    },
+    {
+        "id": 42,
+        "name": "Troy Lewis",
+        "age": 23,
+        "gender": "Male",
+        "email": "cathystevens@gmail.com",
+        "course": "M.Tech",
+        "semester": 2
+    },
+    {
+        "id": 43,
+        "name": "Jill Salinas",
+        "age": 20,
+        "gender": "Female",
+        "email": "vortiz@gmail.com",
+        "course": "MBA",
+        "semester": 6
+    },
+    {
+        "id": 44,
+        "name": "Melissa Marks",
+        "age": 22,
+        "gender": "Male",
+        "email": "langdanielle@yahoo.com",
+        "course": "MBA",
+        "semester": 4
+    },
+    {
+        "id": 45,
+        "name": "Tara Stephens",
+        "age": 23,
+        "gender": "Female",
+        "email": "mcconnellbethany@hotmail.com",
+        "course": "MBA",
+        "semester": 6
+    },
+    {
+        "id": 46,
+        "name": "Charles Carrillo",
+        "age": 22,
+        "gender": "Female",
+        "email": "danielmeyers@nielsen.org",
+        "course": "B.Sc",
+        "semester": 2
+    },
+    {
+        "id": 47,
+        "name": "Mary Marquez",
+        "age": 21,
+        "gender": "Female",
+        "email": "wreynolds@taylor-warren.info",
+        "course": "MBA",
+        "semester": 6
+    },
+    {
+        "id": 48,
+        "name": "David Duran",
+        "age": 18,
+        "gender": "Female",
+        "email": "julie30@robinson.com",
+        "course": "BBA",
+        "semester": 2
+    },
+    {
+        "id": 49,
+        "name": "Mr. Bryan Matthews",
+        "age": 23,
+        "gender": "Male",
+        "email": "steve18@brown.com",
+        "course": "BBA",
+        "semester": 1
+    },
+    {
+        "id": 50,
+        "name": "Robert Freeman",
+        "age": 19,
+        "gender": "Male",
+        "email": "abaker@gmail.com",
+        "course": "BCA",
+        "semester": 3
+    }
+]
